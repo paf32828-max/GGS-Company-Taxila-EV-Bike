@@ -1,0 +1,6 @@
+{
+  "name": "GGS Company Taxila EV Bike",
+  "description": "Electric Motorcycle Dealer in Wah Cantt, Taxila, Pakistan. Explore EVON, Zongfa, and ONE electric bikes and scooters with in-store pickup, delivery, and after-sales support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
